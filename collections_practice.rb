@@ -3,7 +3,7 @@ def sort_array_asc(integer)
     if a == b 
       0 
     elsif a < b 
-      -1
+     -1
     elsif a > b 
       1 
   end
